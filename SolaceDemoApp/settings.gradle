@@ -1,0 +1,6 @@
+rootProject.name = 'SolaceDemoApp'
+include 'publisher'
+include 'subscriber'
+include 'publisher'
+include 'subscriber'
+
